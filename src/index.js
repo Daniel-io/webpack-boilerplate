@@ -6,6 +6,7 @@ import { CONFIG } from './js/global/config'; // Test Enviorment variables config
 
 const log = createLogger(); 
 console.log(CONFIG);
+console.log('GUESS MY NUMBER');
 
 
 
