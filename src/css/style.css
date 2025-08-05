@@ -181,3 +181,12 @@ main {
   font-weight: 700;
   color: #c7365f;
 }
+
+:disabled {
+  opacity: 0.5;           /* Make it look faded */
+  cursor: not-allowed;    /* Show a "not allowed" cursor */
+  pointer-events: none;   /* Disable all mouse interactions */
+  background-color: #ddd; /* Light gray background */
+  color: #666;            /* Dim the text color */
+  /* You can add more styles as needed */
+}
