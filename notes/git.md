@@ -9,8 +9,6 @@ git commit -m "Initial commit for new project"
 
 
 
-
-
 ✅ Keep the Git history
 ❌ Have no GitHub or remote connection at all
 ✅ Use Git locally as a clean, standalone project
