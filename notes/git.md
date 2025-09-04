@@ -40,3 +40,8 @@ Later add new repo: git remote add origin https://github.com/yourusername/new-re
 
 git clone -b second-branch-name https://github.com/your-user/your-repo.git
 
+
+
+## Name main
+
+git branch -m master main
