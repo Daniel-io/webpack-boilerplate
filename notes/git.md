@@ -3,6 +3,7 @@ If you're using this as a template, and you want to start fresh with a new Git h
 
 rm -rf .git
 git init
+git branch -m master main
 git add .
 git commit -m "Initial commit for new project"
 
@@ -45,3 +46,11 @@ git clone -b second-branch-name https://github.com/your-user/your-repo.git
 ## Name main
 
 git branch -m master main
+
+
+
+
+## Install npm 
+
+
+ npm install
